@@ -1,3 +1,1 @@
-# techup-html-exercise
-
-Testing 123
+This is a html exercise under TechUp!
