@@ -1,0 +1,13 @@
+
+.title1 {
+    color: red;
+    background-color: violet;
+    text-align: center;
+    border: 10px black solid;
+    padding: 10px;
+    margin-bottom: 150px;
+}
+
+#important {
+    color: yellow;
+}
